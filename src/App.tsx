@@ -3,7 +3,7 @@ import './App.css'
 const App = () => {
   return (
     <div>
-      hello
+      hello world myself! nikhil srivastav
     </div>
   )
 }
